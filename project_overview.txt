@@ -1,0 +1,141 @@
+Project Overview:
+Build a modern, highly interactive web game playable entirely in the browser, where the player controls a girl fighting off waves of guys in creative, humorous ways. Boss levels are themed around her ex-boyfriends, each with unique abilities and patterns. The game should feel ultra-modern, intuitive, and visually advanced, with smooth transitions, responsive controls, and engaging sound effects. It should work on both desktop and mobile browsers.
+1. Core Gameplay & Mechanics
+
+    Player Character:
+
+        The main character is a confident, stylish girl with attitude, customizable with different outfits and looks.
+
+        Responsive controls: arrow keys/WASD for movement, spacebar or tap for attacks, and special action buttons for abilities.
+
+        Movement is smooth and can be diagonal, with inertia for modern feel.
+
+        The attack style changes as the game progresses (e.g., hair whip, purse swing, witty comeback, dance moves).
+
+    Enemies:
+
+        Regular "guys" approach in fun, exaggerated ways—think flirty, overconfident, or silly.
+
+        Each guy has a distinct animation/personality, making encounters memorable.
+
+        Some may use quirky "pick-up lines" as projectile attacks; some may dance, run, or throw gifts.
+
+        Difficulty and enemy variety increase with each level.
+
+    Boss Levels (Ex-Boyfriends):
+
+        Every 5th level, the player faces a boss—her ex-boyfriend.
+
+        Each boss has a unique attack pattern and a mini story intro.
+
+        Bosses use "emotional attacks" like “guilt trips,” “bad memories,” “jealousy blasts,” or “cringe texts.”
+
+        To defeat a boss, the player must learn and dodge patterns, and time attacks.
+
+2. Progression & Power-Ups
+
+    Leveling Up:
+
+        Each level gets progressively harder.
+
+        At the end of each level, the player chooses from three random power-ups (e.g., faster attacks, health boosts, temporary shield, super witty comeback).
+
+    Collectibles:
+
+        Collect “self-love hearts,” “confidence stars,” and “red flags” to unlock abilities or outfits.
+
+        Temporary power-ups appear during levels (e.g., freeze time, area-of-effect laugh, “ignore” shield).
+
+    Special Abilities:
+
+        “Glow Up” mode: Temporary invincibility and double power.
+
+        “Call Your Bestie”: Summons a friend for a tag-team attack.
+
+3. Art & Audio Direction
+
+    Visuals:
+
+        Modern, vibrant, and clean art style—pastel neons, bold outlines, smooth character animations, particle effects.
+
+        Animated backgrounds that evolve (e.g., coffee shop, club, street, rooftop).
+
+        Subtle parallax effects for depth.
+
+    UI/UX:
+
+        Ultra-modern HUD with soft shadows, rounded corners, glowing highlights.
+
+        Minimal but stylish menus with animated transitions.
+
+        Responsive UI for mobile: thumb-friendly buttons and swipes.
+
+    Sound:
+
+        Upbeat, catchy background music with variations for each level and boss.
+
+        Distinct sound effects for attacks, power-ups, and emotional boss attacks.
+
+        Character voice snippets for taunts and comebacks (option to mute).
+
+4. Features & Quality-of-Life
+
+    Customization:
+
+        Unlockable outfits, hairstyles, and accessories as rewards.
+
+        Change character style from the main menu.
+
+    Accessibility:
+
+        Adjustable difficulty, subtitles for all dialogue and taunts.
+
+        Colorblind-friendly mode.
+
+    Achievements & Leaderboards:
+
+        Track high scores, fastest boss defeats, most creative combos, etc.
+
+        Local and global leaderboards (using browser storage or optional login).
+
+    Save & Resume:
+
+        Progress automatically saves in the browser; continue from last level.
+
+5. Onboarding & Storytelling
+
+    Quick Tutorial:
+
+        The game starts with a quick, interactive tutorial on movement, attacks, dodging, and power-ups.
+
+        Story intro: Set up her motivation in a fun, lighthearted way (“It’s time to level up, break old cycles, and take on the past—literally!”).
+
+    Mini Cutscenes:
+
+        Before each boss, a short comic-panel style cutscene showing the ex-boyfriend’s theme and why he’s the “boss.”
+
+    Victory/Loss Screens:
+
+        Playful, uplifting messages. If defeated, a “pep talk” and instant retry option.
+
+6. Final Touches
+
+    Ultra-Smooth Animations:
+
+        All transitions and actions are fluid—no jank.
+
+        Modern effects: glow trails, confetti, and particle splashes when defeating enemies.
+
+    Performance:
+
+        Should load fast, run smoothly even on mobile, and handle touch as well as keyboard input.
+
+    No Downloads, No Sign-Up Required:
+
+        Fully browser-based, instant play. All features should work offline after first load.
+
+DELIVERABLE:
+A ready-to-run browser game matching all the above specs, with well-organized and commented code for easy expansion and future feature additions. The UI and gameplay should feel as modern and delightful as the best indie games on the web.
+
+SUMMARY:
+Build an ultra-modern, funny, and highly playable browser game where a girl fights off waves of guys and faces her ex-boyfriends as bosses. Focus on intuitive controls, stylish visuals, fun progression, and memorable moments—all fully playable in-browser, no installs or sign-ups.
